@@ -41,5 +41,22 @@ Halloween Dev is a collection of code challenges for Halloween. Have a spooky go
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">02</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/08e187b8-f3c3-45cc-9de6-b05b8755c76c" alt="challenge #02" width="30" height="30" />
+      </td>
+      <td>
+        <a href="/src/challenge-02/README.md"><strong>🧟 Zombie horde</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/9007c86f-e4e9-4deb-8ad1-4ba0531da86a" alt="easy" height=24 />
+      </td>
+      <td align="center">
+        <a href="/src/challenge-02/index.js">
+          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>

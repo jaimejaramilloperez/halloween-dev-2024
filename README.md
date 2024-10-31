@@ -92,5 +92,22 @@ Halloween Dev is a collection of code challenges for Halloween. Have a spooky go
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">05</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/a8dc0b7c-73a0-40a3-bc03-b9a218d0b1bc" alt="challenge #05" width="30" height="30" />
+      </td>
+      <td>
+        <a href="/src/challenge-05/README.md"><strong>▲ Terror on Pyramid Head</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/3b1fd41b-9878-40be-95ee-6077e8de28ae" alt="hard" height=24 />
+      </td>
+      <td align="center">
+        <a href="/src/challenge-05/index.js">
+          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>

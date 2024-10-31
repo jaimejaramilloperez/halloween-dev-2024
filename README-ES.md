@@ -20,7 +20,7 @@ Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo
       <th align="center" colspan="2">#</th>
       <th align="center">Reto</th>
       <th align="center">Nivel de dificultad</th>
-      <th align="center">Solution</th>
+      <th align="center">Solución</th>
     </td>
   </thead>
   <tbody>
@@ -111,3 +111,45 @@ Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo
     </tr>
   </tbody>
 </table>
+
+## Instalación y Ejecución
+
+### Requisitos Previos
+
+Asegúrate de tener instalado [**Node.js**](https://nodejs.org/) en tu sistema. Puedes verificar si Node.js está instalado ejecutando:
+
+```bash
+node -v
+```
+
+Esto debería mostrar la versión de Node.js instalada. Si no está instalado, descárgalo desde la [página oficial](https://nodejs.org/).
+
+Para ejecutar este proyecto en su máquina local, sigue los pasos que se indican a continuación:
+
+1. Clona el repositorio.
+
+```bash
+git clone https://github.com/jaimejaramilloperez/halloween-dev-2024.git
+```
+
+2. Navega al directorio del proyecto.
+
+```bash
+cd halloween-dev-2024
+```
+
+3. Instala las dependencias (opcional) usando el administrador de paquetes de tu preferencia (npm, pnpm, etc).
+
+```bash
+npm install
+```
+
+4. Ejecuta las pruebas de cada reto con:
+
+```bash
+npm run challenge1 # reto 1
+npm run challenge2 # reto 2
+npm run challenge3 # reto 3
+npm run challenge4 # reto 4
+npm run challenge5 # reto 5
+```

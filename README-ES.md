@@ -10,7 +10,7 @@ Mis soluciones a los retos de [Halloween Dev](https://halloween.dev/) 2024 cread
 
 ## ✨ ¿Qué es Halloween Dev?
 
-Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo de miedo, aprende y mejora en programación!. Cada reto tiene una explicación del problema, instrucciones de cómo solucionarlo y sus correspondientes pruebas.
+Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo de miedo, aprende y mejora en programación!. Cada reto tiene una explicación del problema, su solución y sus correspondientes pruebas.
 
 ## 🎮 Retos
 

@@ -10,7 +10,7 @@ My solutions to [Halloween Dev](https://halloween.dev/) 2024 challenges created 
 
 ## ✨ What is Halloween Dev?
 
-Halloween Dev is a collection of code challenges for Halloween. Have a spooky good time, learn, and improve your programming skills! Each challenge has an explanation of the problem, instructions on how to solve it and the corresponding tests.
+Halloween Dev is a collection of code challenges for Halloween. Have a spooky good time, learn, and improve your programming skills! Each challenge has an explanation of the problem, its solution, and the corresponding tests.
 
 ## 🎮 Challenges
 

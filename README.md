@@ -144,7 +144,13 @@ cd halloween-dev-2024
 npm install
 ```
 
-4. Run the tests for each challenge with:
+4. Run all tests with:
+
+```bash
+npm run challenges
+```
+
+Or run the tests for each challenge with:
 
 ```bash
 npm run challenge1 # challenge 1

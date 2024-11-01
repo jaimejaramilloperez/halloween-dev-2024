@@ -30,7 +30,7 @@ Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo
         <img src="https://github.com/user-attachments/assets/dcd58844-e32d-414f-aa5c-6057fde9d0d3" alt="reto #01" width="30" height="30" />
       </td>
       <td>
-        <a href="/src/challenge-01/README.md"><strong>🧙‍♀️ Crea la poción perfecta</strong></a>
+        <a href="/src/challenge-01/README-ES.md"><strong>🧙‍♀️ Crea la poción perfecta</strong></a>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/9007c86f-e4e9-4deb-8ad1-4ba0531da86a" alt="easy" height=24 />
@@ -47,7 +47,7 @@ Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo
         <img src="https://github.com/user-attachments/assets/08e187b8-f3c3-45cc-9de6-b05b8755c76c" alt="reto #02" width="30" height="30" />
       </td>
       <td>
-        <a href="/src/challenge-02/README.md"><strong>🧟 Horda de zombies</strong></a>
+        <a href="/src/challenge-02/README-ES.md"><strong>🧟 Horda de zombies</strong></a>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/9007c86f-e4e9-4deb-8ad1-4ba0531da86a" alt="easy" height=24 />
@@ -64,7 +64,7 @@ Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo
         <img src="https://github.com/user-attachments/assets/4b82a400-6416-4863-b52f-69b01ee43530" alt="reto #03" width="30" height="30" />
       </td>
       <td>
-        <a href="/src/challenge-03/README.md"><strong>🛌 Escapa de la pesadilla de Freddy</strong></a>
+        <a href="/src/challenge-03/README-ES.md"><strong>🛌 Escapa de la pesadilla de Freddy</strong></a>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/f00a613a-7dbb-42f5-a73d-0efd96ef7f5d" alt="normal" height=24 />
@@ -81,7 +81,7 @@ Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo
         <img src="https://github.com/user-attachments/assets/db112439-3589-461d-af8d-a23ad1dd6813" alt="reto #04" width="30" height="30" />
       </td>
       <td>
-        <a href="/src/challenge-04/README.md"><strong>🔪 Encuentra al asesino</strong></a>
+        <a href="/src/challenge-04/README-ES.md"><strong>🔪 Encuentra al asesino</strong></a>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/f00a613a-7dbb-42f5-a73d-0efd96ef7f5d" alt="normal" height=24 />
@@ -98,7 +98,7 @@ Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo
         <img src="https://github.com/user-attachments/assets/a8dc0b7c-73a0-40a3-bc03-b9a218d0b1bc" alt="reto #05" width="30" height="30" />
       </td>
       <td>
-        <a href="/src/challenge-05/README.md"><strong>▲ Terror en Silent Hill</strong></a>
+        <a href="/src/challenge-05/README-ES.md"><strong>▲ Terror en Silent Hill</strong></a>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/3b1fd41b-9878-40be-95ee-6077e8de28ae" alt="hard" height=24 />

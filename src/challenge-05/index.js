@@ -3,13 +3,13 @@
  * @returns {number}
  */
 export function escapePyramidHead (room) {
-  const n = room.length
-  const m = room[0].length
+  const rows = room.length
+  const columns = room[0].length
   let start = null
   let target = null
 
-  for (let i = 0; i < n; i++) {
-    for (let j = 0; j < m; j++) {
+  for (let i = 0; i < rows; i++) {
+    for (let j = 0; j < columns; j++) {
       if (room[i][j] === '▲') {
         start = [i, j]
       } else if (room[i][j] === 'T') {
@@ -18,7 +18,7 @@ export function escapePyramidHead (room) {
     }
   }
 
-  const visited = new Set(`${start[0]},${start[1]}`)
+  const visited = new Set()
   const queue = [{ x: start[0], y: start[1], steps: 0 }]
   const directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
 
@@ -29,17 +29,16 @@ export function escapePyramidHead (room) {
     visited.add(`${x},${y}`)
 
     for (const [dx, dy] of directions) {
-      const newx = x + dx
-      const newy = y + dy
+      const newX = x + dx
+      const newY = y + dy
 
       if (
-        newx >= 0 && newx < n &&
-        newy >= 0 && newy < m &&
-        !visited.has(`${newx},${newy}`)
+        newX >= 0 && newX < rows &&
+        newY >= 0 && newY < columns &&
+        !visited.has(`${newX},${newY}`) &&
+        room[newX][newY] !== '#'
       ) {
-        if (room[newx][newy] !== '#') {
-          queue.push({ x: newx, y: newy, steps: steps + 1 })
-        }
+        queue.push({ x: newX, y: newY, steps: steps + 1 })
       }
     }
   }

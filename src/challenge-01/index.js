@@ -15,7 +15,9 @@ export function createMagicPotion (potions, target) {
       return [index, i]
     }
 
-    powers.set(potions[i], i)
+    if (!powers.has(potions[i])) {
+      powers.set(potions[i], i)
+    }
   }
 
   return undefined

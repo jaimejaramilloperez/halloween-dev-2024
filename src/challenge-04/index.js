@@ -4,12 +4,17 @@
  * @returns {string}
  */
 export function findTheKiller (whisper, suspects) {
-  let formattedPattern = whisper.replace(/~/g, '.')
-  if (!formattedPattern.endsWith('$')) formattedPattern += '+'
+  const initialPattern = whisper.replaceAll('~', '.')
+  const endsWithDollar = initialPattern.endsWith('$')
 
-  const regex = new RegExp('^' + formattedPattern, 'ig')
+  const finalPattern = endsWithDollar
+    ? initialPattern.slice(0, -1)
+    : initialPattern
+
+  const endOfPattern = endsWithDollar || !finalPattern.endsWith('.') ? '$' : '.*$'
+  const regex = new RegExp(`^${finalPattern}${endOfPattern}`, 'i')
 
   return suspects
-    .filter((suspect) => suspect.match(regex) !== null)
+    .filter((suspect) => regex.test(suspect))
     .join(',')
 }

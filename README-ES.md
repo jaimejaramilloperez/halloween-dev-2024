@@ -21,6 +21,7 @@ Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo
       <th align="center">Reto</th>
       <th align="center">Nivel de dificultad</th>
       <th align="center">Solución</th>
+      <th align="center">Pruebas unitarias</th>
     </td>
   </thead>
   <tbody>
@@ -37,7 +38,12 @@ Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo
       </td>
       <td align="center">
         <a href="/src/challenge-01/index.js">
-          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-01/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -54,7 +60,12 @@ Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo
       </td>
       <td align="center">
         <a href="/src/challenge-02/index.js">
-          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-02/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -71,7 +82,12 @@ Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo
       </td>
       <td align="center">
         <a href="/src/challenge-03/index.js">
-          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-03/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -88,7 +104,12 @@ Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo
       </td>
       <td align="center">
         <a href="/src/challenge-04/index.js">
-          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-04/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -105,7 +126,12 @@ Halloween Dev es una collección de retos de código para Halloween. ¡Pásatelo
       </td>
       <td align="center">
         <a href="/src/challenge-05/index.js">
-          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-05/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
